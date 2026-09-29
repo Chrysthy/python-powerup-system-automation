@@ -66,3 +66,15 @@ The automation uses PyAutoGUI to control the keyboard and mouse, while Pandas is
 Sensitive information, such as login credentials, is stored using environment variables instead of being written directly in the source code.
 
 <br>
+
+## 🔄 How It Works
+
+1. Opens Google Chrome
+2. Accesses the system
+3. Logs in using credentials stored in environment variables
+4. Loads the product database from a CSV file
+5. Reads each product from the database
+6. Fills in the registration form automatically
+7. Repeats the process until all products are registered
+
+<br>
