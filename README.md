@@ -56,3 +56,13 @@
 - Separates sensitive information from the source code
 
 <br>
+
+## 💻 Project
+
+Python PowerUP is an automation project developed to simulate the registration of products in a company system.
+
+The automation uses PyAutoGUI to control the keyboard and mouse, while Pandas is responsible for reading and handling the product database.
+
+Sensitive information, such as login credentials, is stored using environment variables instead of being written directly in the source code.
+
+<br>
