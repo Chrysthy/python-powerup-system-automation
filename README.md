@@ -23,3 +23,11 @@
 </p>
 
 <br>
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src=".github/project-demo.gif" alt="Project Demo">
+</p>
+
+<br>
