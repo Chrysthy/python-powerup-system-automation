@@ -43,3 +43,16 @@
 * Git and GitHub
 
 <br>
+
+## ✨ Features
+
+- Opens the browser automatically
+- Accesses the web system
+- Uses environment variables for login credentials
+- Reads product data from a CSV file
+- Registers products automatically
+- Handles empty observation fields
+- Uses dynamic file paths with Pathlib
+- Separates sensitive information from the source code
+
+<br>
