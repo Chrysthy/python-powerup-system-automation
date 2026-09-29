@@ -78,3 +78,41 @@ Sensitive information, such as login credentials, is stored using environment va
 7. Repeats the process until all products are registered
 
 <br>
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Chrysthy/python-powerup-system-automation.git
+```
+
+```bash
+cd python-powerup-system-automation
+```
+
+```bash
+pip install -r requirements.txt
+```
+
+Create a .env file in the project root:
+```bash
+EMAIL=your_email
+PASSWORD=your_password
+```
+
+Then run the project:
+```bash
+python src/main.py
+```
+
+## 🔐 Environment Variables
+
+This project uses environment variables to keep sensitive information outside the source code.
+
+Use the `.env.example` file as a reference:
+
+```env
+EMAIL=your_email
+PASSWORD=your_password
+```
