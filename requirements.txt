@@ -1,3 +1,5 @@
 pyautogui
 pandas
+python-dotenv
+openpyxl
 keyboard (opcional)
