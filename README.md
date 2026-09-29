@@ -31,3 +31,15 @@
 </p>
 
 <br>
+
+## 🛠 Technologies
+
+* Python
+* PyAutoGUI
+* Pandas
+* Python Dotenv
+* Pathlib
+* CSV
+* Git and GitHub
+
+<br>
